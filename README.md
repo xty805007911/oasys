@@ -6,21 +6,21 @@
 #### 大家感兴趣的话 可以微信扫码体验一下,也可以在微信当中搜索小程序：垃圾识别精灵。 
 <!-- #### ~~后面我会把相关功能再完善完善，大概在 8月底到9月初 会开源出来的。 敬请期待哟~~。 -->
 <!-- #### 现已开源，去看看吧.可以加我微信好友一起交流——>  https://gitee.com/aaluoxiang/GarbageSort -->
- 
+
 <!-- <img src="https://images.gitee.com/uploads/images/2019/0730/130939_1e21447e_1277461.jpeg" width="300"  align=center /> -->
 
 <!-- <img src="https://images.gitee.com/uploads/images/2019/0927/141027_4b404d3b_1277461.jpeg" width="300"  align=center /> -->
 
 <!-- <img src="https://images.gitee.com/uploads/images/2019/0730/114215_38a24a48_1277461.jpeg" width="300"  align=center /> -->
 
-| 首页 | 分类页 | 分类详情 | 搜索页 |
-| :--------: | :--------:| :--: |:--:|
-| <img src="https://images.gitee.com/uploads/images/2019/0730/125242_4777d3fa_1277461.png" width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0730/125250_8275848e_1277461.png" width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0730/125301_35954171_1277461.png" width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0730/125317_7272a96b_1277461.png" width="300"  align=center />|
+|                    首页                    |                   分类页                    |                   分类详情                   |                   搜索页                    |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| <img src="https://images.gitee.com/uploads/images/2019/0730/125242_4777d3fa_1277461.png" width="300"  align=center /> | <img src="https://images.gitee.com/uploads/images/2019/0730/125250_8275848e_1277461.png" width="300"  align=center /> | <img src="https://images.gitee.com/uploads/images/2019/0730/125301_35954171_1277461.png" width="300"  align=center /> | <img src="https://images.gitee.com/uploads/images/2019/0730/125317_7272a96b_1277461.png" width="300"  align=center /> |
 
 
-| 语音识别 | 挑战赛 | 挑战赛等级 | 挑战赛详情 |
-| :--------: | :--------:| :--: |:--:|
-| <img src="https://images.gitee.com/uploads/images/2019/0730/125349_348ed5a1_1277461.png" width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0730/125325_0eac19a1_1277461.png" width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0730/125333_20a7ed64_1277461.png" width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0730/125341_350f0101_1277461.png" width="300"  align=center />|
+|                   语音识别                   |                   挑战赛                    |                  挑战赛等级                   |                  挑战赛详情                   |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| <img src="https://images.gitee.com/uploads/images/2019/0730/125349_348ed5a1_1277461.png" width="300"  align=center /> | <img src="https://images.gitee.com/uploads/images/2019/0730/125325_0eac19a1_1277461.png" width="300"  align=center /> | <img src="https://images.gitee.com/uploads/images/2019/0730/125333_20a7ed64_1277461.png" width="300"  align=center /> | <img src="https://images.gitee.com/uploads/images/2019/0730/125341_350f0101_1277461.png" width="300"  align=center /> |
 
 <!-- 
 |  欢迎来一起交流哟 | 
@@ -40,23 +40,23 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 ![项目结构](https://images.gitee.com/uploads/images/2018/0926/164310_e781580c_1277461.png "项目结构目录.png")
 #### 前端
 
-| 技术      |    名称| 版本|	官网|
-| :--------: | :--------:| :--: |:--:|
-| freemarker|模板引擎|springboot1.5.6.RELEASE集成版本|https://freemarker.apache.org/|
-| Bootstrap|前端UI框架|3.3.7|http://www.bootcss.com/|
-| Jquery|快速的JavaScript框架|1.11.3|https://jquery.com/|
-|kindeditor|HTML可视化编辑器|4.1.10|http://kindeditor.net|
-|My97 DatePicker|时间选择器|4.8 Beta4|http://www.my97.net/|
+|       技术        |       名称        |             版本              |               官网               |
+| :-------------: | :-------------: | :-------------------------: | :----------------------------: |
+|   freemarker    |      模板引擎       | springboot1.5.6.RELEASE集成版本 | https://freemarker.apache.org/ |
+|    Bootstrap    |     前端UI框架      |            3.3.7            |    http://www.bootcss.com/     |
+|     Jquery      | 快速的JavaScript框架 |           1.11.3            |      https://jquery.com/       |
+|   kindeditor    |   HTML可视化编辑器    |           4.1.10            |     http://kindeditor.net      |
+| My97 DatePicker |      时间选择器      |          4.8 Beta4          |      http://www.my97.net/      |
 
 #### 后端
 
-| 技术 | 名称 | 版本 | 官网 |
-| :--------: | :--------:|:---:|:------:|
-|SpringBoot|SpringBoot框架|1.5.6.RELEASE|https://spring.io/projects/spring-boot|
-|JPA|spring-data-jpa|1.5.6.RELEASE|https://projects.spring.io/spring-data-jpa|
-|Mybatis|Mybatis框架|1.3.0|http://www.mybatis.org/mybatis-3|
-|fastjson|json解析包|1.2.36|https://github.com/alibaba/fastjson|
-|pagehelper|Mybatis分页插件|1.0.0|https://pagehelper.github.io|
+|     技术     |       名称        |      版本       |                    官网                    |
+| :--------: | :-------------: | :-----------: | :--------------------------------------: |
+| SpringBoot |  SpringBoot框架   | 1.5.6.RELEASE |  https://spring.io/projects/spring-boot  |
+|    JPA     | spring-data-jpa | 1.5.6.RELEASE | https://projects.spring.io/spring-data-jpa |
+|  Mybatis   |    Mybatis框架    |     1.3.0     |     http://www.mybatis.org/mybatis-3     |
+|  fastjson  |     json解析包     |    1.2.36     |   https://github.com/alibaba/fastjson    |
+| pagehelper |   Mybatis分页插件   |     1.0.0     |       https://pagehelper.github.io       |
 
 ### 3.部署流程
 
@@ -66,7 +66,7 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 		4. 修改相关路径，配置图片路径、文件路径、附件路径。(static/image/oasys.jpg 拷贝到配置的图片路径下，不然会报 FileNotFoundException )
 		5. OasysApplication.java中的main方法运行，控制台没有报错信息，数据启动时间多久即运行成功
 		6. 在浏览器中输入localhost:8088/logins
-		
+
 ### 4. 演示地址
 
 #####     演示地址链接：http://oa.lxsir.cn:8088/index (维护中，暂时将关闭)
@@ -102,10 +102,7 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 ![新建流程.png](https://images.gitee.com/uploads/images/2019/0927/141251_c7d89853_1277461.png)
 ![通讯录.png](https://images.gitee.com/uploads/images/2019/0927/141251_bcf9cbda_1277461.png)
 
-#### 有收获可以请作者喝咖啡哟
-If the project is very helpful to you, you can buy the author a cup of coffee.
-如果这个项目对您有帮助，请作者喝杯咖啡吧。☕
-
-|支付宝      |    微信|
-| :--------: | :--------:|
-| <img src="https://images.gitee.com/uploads/images/2019/0909/165504_f02dc52b_1277461.jpeg " width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0909/165444_ab4377b4_1277461.jpeg " width="300"  align=center />|
+#### 
+|      |      |
+| :--: | :--: |
+|      |      |
